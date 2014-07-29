@@ -12,5 +12,5 @@ Contributors:
 
 * Kevin Lubick
 * [Fork the repository, make a pull request and see your name here!]
-* [training aid #1]
+* Kevin Demos
 * [training aid #2]
